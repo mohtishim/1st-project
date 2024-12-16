@@ -1,5 +1,9 @@
 legend{
     color: burlywood;
+    cursor: pointer;
+}
+legend:hover{
+    display: none;
 }
 
 h1{
